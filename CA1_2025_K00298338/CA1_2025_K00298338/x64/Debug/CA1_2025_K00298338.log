@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CA1_2025_K00298338.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Enemy.cpp
+C:\2dgd\classroom code\CA1_2025_K00298338\CA1_2025_K00298338\Code\Enemy.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+C:\2dgd\classroom code\CA1_2025_K00298338\CA1_2025_K00298338\Code\Game.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\2dgd\classroom code\CA1_2025_K00298338\CA1_2025_K00298338\Code\Game.cpp(172,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameCharacter.cpp
+C:\2dgd\classroom code\CA1_2025_K00298338\CA1_2025_K00298338\Code\GameCharacter.cpp(18,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Player.cpp
+  Generating Code...
+  CA1_2025_K00298338.vcxproj -> C:\2dgd\classroom code\CA1_2025_K00298338\x64\Debug\CMD RPG.exe
